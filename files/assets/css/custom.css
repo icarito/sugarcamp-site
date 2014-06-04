@@ -1,0 +1,20 @@
+
+.cc-btn-camp {
+	font-size: 25pt;
+	text-align: center;
+	vertical-align: baseline;
+	height: 160px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#cc-btn-sc {
+	font-family: "Comfortaa";
+	background-image: url("/images/carpa-sc.png");
+	font-weight: bolder;
+        width: 203px;
+}
+
+#cc-btn-sc .cc-spacer {
+	height: 38px;
+}
