@@ -1,3 +1,10 @@
+.big {
+    font-size: 20pt;
+    }
+
+.bigtitle {
+    font-size: 35pt;
+    }
 
 .cc-btn-camp {
 	font-size: 25pt;
@@ -18,3 +25,13 @@
 #cc-btn-sc .cc-spacer {
 	height: 38px;
 }
+
+.fieldcontainer label {
+    padding: 5px;
+    width: 200px;
+}
+
+.fieldcontainer {
+    margin-top: 10px;
+}
+

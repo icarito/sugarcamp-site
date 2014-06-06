@@ -37,9 +37,14 @@ Dando cierre al 1 Taller de Artesanía en Programación de Videojuegos en Python
         </p>
       </div>
 
+.. class:: bigtitle
+
 **El Reto**
 
-**Produciremos, jugaremos, mejoraremos y publicaremos en la Biblioteca de actividades de Sugar Labs, una compilación de videojuegos diseñados para el desarrollo de capacidades que les permitan a los niños actuar como agentes de cambio en sus comunidades.**
+
+.. class:: big
+
+**Produciremos, jugaremos, mejoraremos y publicaremos, una compilación de videojuegos diseñados para el desarrollo de capacidades que les permitan a los niños actuar como agentes de cambio en sus comunidades.**
 
 .. _somosazucar: http://somosazucar.org/
 

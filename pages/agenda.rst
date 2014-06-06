@@ -45,7 +45,9 @@ Sábado 5 de Julio: Compilado Chía Dia 2
 
 **[4 pm - 6 pm]] Cierre Oficial**: Publicación de paquetes e instrucciones
 
-http://sugarcamp.somosazucar.org/registro_chia_talleres.html
+Proponer un taller_
+
+.. _taller: proponer.html
 
 ----
 

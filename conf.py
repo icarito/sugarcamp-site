@@ -287,6 +287,7 @@ REDIRECTIONS = []
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
 # DEPLOY_COMMANDS = []
+DEPLOY_COMMANDS = ["rsync -rav --delete output/ icarito@sunjammer.somosazucar.org:/srv/www-laboratoriosazucar/camp"]
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
@@ -440,9 +441,9 @@ src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '''{license}<br/> 
-&copy; {date} <a href="mailto:{email}">{author}</a><br />
-<div><img href="/images/invitacion.jpg" /></div>
+CONTENT_FOOTER = '''<br/><div class="col-md-2">{license}<br/> 
+&copy; {date} <a href="mailto:{email}">{author}</a></div>
+<div class="col-md-10"><img class="block-center" src="/images/invitacion.jpg" /></div>
 Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>
 '''
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
