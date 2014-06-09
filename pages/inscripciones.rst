@@ -1,9 +1,9 @@
 .. title: Inscríbete para participar
 .. slug: inscripciones
 .. date: 06/04/2014 01:07:56 AM UTC-05:00
-.. tags: 
-.. link: 
-.. description: 
+.. tags:
+.. link:
+.. description:
 .. type: text
 
 .. raw:: html
@@ -19,8 +19,8 @@
       var contribucion=$('#contribucion').val();
       var sobreti=$('#sobreti').val();
       var presencia=$('#presencia').val();
-      if (  nombre=="" || 
-            email=="" || 
+      if (  nombre=="" ||
+            email=="" ||
             telefono=="" ||
             actividad=="" ||
             origen=="" ||
@@ -35,10 +35,10 @@
     </script>
 
     <div class="col-md-5 pull-right">
-    <div id="cc-btn-sc" class="cc-btn-camp center-block"> 
-        <div class='cc-spacer'></div> 
-        <span time="1404421200" class="kkcount-down"></span>
-    </div> 
+    <div id="cc-btn-sc" class="cc-btn-camp center-block">
+        <div class='cc-spacer'></div>
+        <span time="1405630800" class="kkcount-down"></span>
+    </div>
     </div>
 
     <form action="/assets/form/registro_chia.php" method="post" onsubmit="return validateForm()">

@@ -26,7 +26,7 @@ SITE_URL = "http://camp.laboratoriosazucar.org/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://camp.laboratoriosazucar.org/"
 BLOG_EMAIL = "equipo@somosazucar.org"
-BLOG_DESCRIPTION = "3,4,5 de Julio"  # (translatable)
+BLOG_DESCRIPTION = "17,18 y 19 de Julio"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -100,15 +100,16 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #}
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/maraton.html", "Maratón de Producción de Videojuegos"),
         ("/justificacion.html", "Justificación"),
+        ("/videojuegos.html", "Videojuegos"),
         ("/agenda.html", "Cronograma"),
         ("/inscripciones.html", "Inscripciones"),
     ),
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+#THEME = "bootstrap3"
+THEME = "custom"
 
 # Below this point, everything is optional
 
@@ -441,10 +442,12 @@ src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '''<br/><div class="col-md-2">{license}<br/> 
+CONTENT_FOOTER = '''<br/><div class="col-md-12">{license}<br/> 
 &copy; {date} <a href="mailto:{email}">{author}</a></div>
-<div class="col-md-10"><img class="block-center" src="/images/invitacion.jpg" /></div>
-Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>
+<div class="col-md-4"><img src="/images/logos_alianzas_1.png" /></div>
+<div class="col-md-4"><img src="/images/logos_alianzas_2.png" /></div>
+<div class="col-md-4"><img src="/images/logos_alianzas_3.png" /></div>
+Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a>
 '''
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
