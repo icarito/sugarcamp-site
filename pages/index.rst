@@ -22,7 +22,10 @@
             </p>
             </div>
 
-        <h1>Sugar Camp: <br> Maratón de Trabajo Colaborativo</span></h1>
+.. image:: /images/logo_sugarcamp.png
+
+Maratón de Trabajo Colaborativo
+-------------------------------
 
 **Invitación**
 
@@ -31,16 +34,46 @@ Dando cierre al 1 Taller de Artesanía en Programación de Videojuegos en Python
 .. raw:: html
 
       <div class="col-md-4">
-        <img style="float:right" src="/images/sugar-xo.svg"/>
-        <h3>Qué es <a href="http://sugarlabs.org/">Sugar</a></h3>
-        <p>Sugar es un entorno de usuario para niños diseñado para facilitar el aprendizaje.
+        <img style="float:left" src="/images/sugar-xo.svg"/>
+        <h1>El Reto</h1>
+        <p class="big"><strong>"Jugaremos y produciremos una compilación de videojuegos diseñados para desarrollar en los niños capacidades que les permitan ser agentes de cambio."</strong>
         </p>
       </div>
+      <br />
+
+.. raw:: html
+
+    <div class="col-md-8 pull-right">
+    <br/>
+
+.. slides::
+
+    /galleries/fotos/python_joven.jpg
+    /galleries/fotos/semillero_ninos_proegramadores.jpg
+    /galleries/fotos/chicas_chia.jpg
 
 
-.. class:: big
+.. raw:: html
 
-**EL RETO: "Jugaremos y produciremos una compilación de videojuegos diseñados para desarrollar en los niños capacidades que les permitan ser agentes de cambio."**
+    <h1>Sugar Camp Chía 2014 - 17, 18 y 19 de Julio
+    <br/>Encuentro de Semilleros de Niños y Niñas Programadores
+    <br/> Invitados de Honor: Python Joven Uruguay
+    </h1>
 
-.. _somosazucar: http://somosazucar.org/
+    <p style="font-size:14pt; text-align:right">
+    <a href="inscripciones.html">Inscríbete aquí</a>.
+    </p>
+
+    </div>
+
+.. raw:: html
+
+    <div class="col-md-4">
+        <h2>Biblioteca Municipal de Chía: "Hoqabiga"</h2>
+        <iframe height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-74.0586930513382%2C4.8614430660647985%2C-74.05458390712738%2C4.864420291219919&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=18/4.86293/-74.05664">Ver mapa grande</a></small>
+        <br/>
+        <p>
+        <strong>Carrera 7 No. 15 -51 <br/> Chía, Cundinamarca, Colombia</strong>
+        </p>
+    </div>
 

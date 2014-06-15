@@ -23,7 +23,7 @@
             </div>
 
 
-Los video juegos son la puerta de entrada al horizonte de atención de los niños de hoy. Pronto, será difícil encontrar un infante que no haya sido sea expuesto a múltiple plataformas tecnológicas.
+Los video juegos son la puerta de entrada al horizonte de atención de los niños de hoy. Pronto, será difícil encontrar un infante que no haya sido sea expuesto a múltiples plataformas tecnológicas.
 
 Sin embargo, los video juegos deben cumplir algunas características para que podamos considerarlos "aptos" o "apropiados" para nuestros sistemas sociales y educativos. En primer lugar, una plataforma apropiada para niños, debería ser concordante con la filosofía y prácticas del Software (código o fuente) Libre, puesto que sólo de ésta manera garantizamos la "apropiabilidad" de la tecnología a la que están siendo expuestos los niños.
 

@@ -34,7 +34,7 @@
     }
     </script>
 
-    <div class="col-md-5 pull-right">
+    <div class="col-md-3 pull-right">
     <div id="cc-btn-sc" class="cc-btn-camp center-block">
         <div class='cc-spacer'></div>
         <span time="1405630800" class="kkcount-down"></span>
@@ -44,19 +44,19 @@
     <form action="/assets/form/registro_chia.php" method="post" onsubmit="return validateForm()">
      <div class="fieldcontainer">
      <label for="nombre">Tu nombre:</label>
-     <input id="nombre" type="text" size="50" name="nombre" />
+     <input id="nombre" type="text" size="35" name="nombre" />
      </div>
      <div class="fieldcontainer">
      <label for="email">Tu email:</label>
-     <input id="email" type="text" size="50" name="email" />
+     <input id="email" type="text" size="35" name="email" />
      </div>
      <div class="fieldcontainer">
      <label for="telefono">Tu teléfono:</label>
-     <input id="telefono" type="text" size="50" name="telefono" />
+     <input id="telefono" type="text" size="35" name="telefono" />
      </div>
      <div class="fieldcontainer">
      <label for="origen">De dónde vienes:</label>
-     <input id="origen" type="text" size="50" name="origen" />
+     <input id="origen" type="text" size="35" name="origen" />
      </div>
      <div class="fieldcontainer">
      <label for="contribucion">Puedes contribuír:</label>

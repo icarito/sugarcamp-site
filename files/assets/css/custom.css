@@ -1,3 +1,7 @@
+body {
+    font-size: 15pt;
+    }
+
 .big {
     font-size: 18pt;
     padding-left: 20pt;
@@ -36,3 +40,7 @@
     margin-top: 10px;
 }
 
+#addthisbox {
+    margin-bottom: 0px;
+    right: 0px;
+}

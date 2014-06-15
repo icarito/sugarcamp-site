@@ -444,10 +444,14 @@ src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 # (translatable)
 CONTENT_FOOTER = '''<br/><div class="col-md-12">{license}<br/> 
 &copy; {date} <a href="mailto:{email}">{author}</a></div>
-<div class="col-md-4"><img src="/images/logos_alianzas_1.png" /></div>
-<div class="col-md-4"><img src="/images/logos_alianzas_2.png" /></div>
-<div class="col-md-4"><img src="/images/logos_alianzas_3.png" /></div>
-Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a>
+<div class="col-md-6"><img src="/images/somosazucar.png" /></div>
+<div class="col-md-6"><img src="/images/logos_alianzas_3.png" /></div>
+<div class="col-md-3"><img src="/images/python_joven-logo.png" /></div>
+<div class="col-md-5"><img src="/images/logos_alianzas_2.png" /></div>
+<div class="col-md-4"><img src="/images/sugarlabs_trans.png" /></div>
+<div class="col-md-6"><img src="/images/logos_alianzas_1.png" /></div>
+<div class="col-md-3"><img src="/images/logo_labs.png" /></div>
+<div class="col-md-12 center-block" style="text-align: center">powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a></div>
 '''
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -583,19 +587,19 @@ COMMENT_SYSTEM_ID = ""
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty.
 # (translatable)
-# SOCIAL_BUTTONS_CODE = """
-# <!-- Social buttons -->
-# <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
-# <a class="addthis_button_more">Share</a>
-# <ul><li><a class="addthis_button_facebook"></a>
-# <li><a class="addthis_button_google_plusone_share"></a>
-# <li><a class="addthis_button_linkedin"></a>
-# <li><a class="addthis_button_twitter"></a>
-# </ul>
-# </div>
-# <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
-# <!-- End of social buttons -->
-# """
+SOCIAL_BUTTONS_CODE = """
+<!-- Social buttons -->
+<div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
+<a class="addthis_button_more">Compartir</a>
+<ul><li><a class="addthis_button_facebook"></a>
+<li><a class="addthis_button_google_plusone_share"></a>
+<li><a class="addthis_button_linkedin"></a>
+<li><a class="addthis_button_twitter"></a>
+</ul>
+</div>
+<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
+<!-- End of social buttons -->
+"""
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
