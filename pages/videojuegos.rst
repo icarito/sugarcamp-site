@@ -14,7 +14,7 @@ Maratón
             <div class="col-md-12" style="float: none">
             <div id="cc-btn-sc" class="cc-btn-camp center-block">
                 <div class='cc-spacer'></div>
-                <span time="1405630800" class="kkcount-down"></span>
+                <span time="1405609200" class="kkcount-down"></span>
             </div>
             <h3 style="text-align:center">La entrada es libre</h3>
             <p style="text-align:center">

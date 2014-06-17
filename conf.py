@@ -25,8 +25,8 @@ SITE_URL = "http://camp.laboratoriosazucar.org/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://camp.laboratoriosazucar.org/"
-BLOG_EMAIL = "equipo@somosazucar.org"
-BLOG_DESCRIPTION = "17,18 y 19 de Julio"  # (translatable)
+BLOG_EMAIL = "transformando@somosazucar.org"
+BLOG_DESCRIPTION = "17, 18 y 19 de Julio"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -443,7 +443,7 @@ src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
 CONTENT_FOOTER = '''<br/><div class="col-md-12">{license}<br/> 
-&copy; {date} <a href="mailto:{email}">{author}</a></div>
+&copy; {date} <a href="mailto:{email}">{author}</a><br/>sugar camp es un evento comunitario - si puedes colaborar, <a href="mailto:{email}">¡escríbenos!</a></div>
 <div class="col-md-6"><img src="/images/somosazucar.png" /></div>
 <div class="col-md-6"><img src="/images/logos_alianzas_3.png" /></div>
 <div class="col-md-3"><img src="/images/python_joven-logo.png" /></div>
