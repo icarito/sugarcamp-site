@@ -44,3 +44,7 @@ body {
     margin-bottom: 0px;
     right: 0px;
 }
+
+select {
+    color: black;
+}
