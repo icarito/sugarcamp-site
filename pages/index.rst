@@ -11,7 +11,7 @@
             <div class="col-md-5 pull-right">
             <div id="cc-btn-sc" class="cc-btn-camp center-block">
                 <div class='cc-spacer'></div>
-                <span time="1405609200" class="kkcount-down"></span>
+                <span time="1405803600" class="kkcount-down"></span>
             </div>
             <h3 style="text-align:center">La entrada es libre</h3>
             <p>
@@ -51,6 +51,8 @@ Dando cierre al 1 Taller de Artesanía en Programación de Videojuegos en Python
     /galleries/fotos/python_joven.jpg
     /galleries/fotos/semillero_ninos_proegramadores.jpg
     /galleries/fotos/chicas_chia.jpg
+    /galleries/fotos/P1010541.JPG
+    /galleries/fotos/P1140416.JPG
 
 
 .. raw:: html

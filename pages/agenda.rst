@@ -11,7 +11,7 @@
             <div class="col-md-4 pull-right">
             <div id="cc-btn-sc" class="cc-btn-camp center-block">
                 <div class='cc-spacer'></div>
-                <span time="1405609200" class="kkcount-down"></span>
+                <span time="1405803600" class="kkcount-down"></span>
             </div>
             <h3 style="text-align:center">La entrada es libre</h3>
             <p>
@@ -22,45 +22,55 @@
             </p>
             </div>
 
-Día 0: Jueves 17 de Julio: Bienvenidos todos!
+Día 1: Jueves 17 de Julio: Bienvenidos todos!
 ---------------------------------------------
 
-**[10 am] Inaguración Oficial**
+**[9 am] Inaguración Oficial**
 
-Explicando el objetivo, lo que nos une y lo que hay que hacer
+        Acreditación - Acto Inaugural
 
-**[11 am] Proyecto Transformando - Semillero de Programación**
+**[10:30 am] Proyecto Transformando - Proyecto de Innovación Social**
 
-De que se trata, logros y dificultades por Aura Mora, OLPC Colombia
+        De que se trata, logros y retos identificados por Aura Mora, OLPC Colombia
+
+**[11:30 am] Videojuegos transformadores: #TransformandoChia2014**
+
+        El Reto de SugarCamp Chía por Laura Victoria Vargas, Laboratorios Azúcar
   
-**[2 pm - 5 pm] La Feria Transformadora**
+**[2 pm - 5 pm] La Feria Transformadora: Los niños reclutan colaboradores**
 
-Los niños proponen juegos e ideas: ¡a reclutar colaboradores!
+**[4pm -5pm] Taller: Fortaleciendo a los equipos Transformadores**
 
 
-Día 1: Viernes 18 de Julio: Compilado Chía
+Día 2: Viernes 18 de Julio: Compilado Chía
 ------------------------------------------
 
-**[10 am] Taller del Artesano**
+**[9 am] Taller del Artesano**
 
-Introducción al arte de programar video juegos para la XO  
+        El arte de programar video juegos para la XO por Sebastian Silva, SomosAzucar.Org
 
-**[11 am - 5 pm] Los Equipos: ¡Jugar, jugar jugar!**
+**[10:30 am - 5 pm] Equipos en Hacker Space**
 
-Lluvia de Ideas: Retroalimentación, Triage y asignación
+        Jugar - Retroalimentación - Triage y asignación
 
-Día 2: Sábado 19 de Julio: Compilado Chía
+**[2pm - 5pm] Aportando a los Videojuegos**
+
+        Lluvia de ideas y contribuciones con papás y mamás
+
+
+Día 3: Sábado 19 de Julio: Compilado Chía
 -----------------------------------------
 
-**[10 am] Proyecto Python Jóven Uruguay**
+**[9 am] Proyecto Python Joven Uruguay**
 
-Python Joven Uruguay - Flavio Danesse
+        De que se trata, logros y retos identificados por Flavio Danesse, Python Joven Uruguay 
 
-**[11 am - 5 pm] Equipos en Hacker Space**
 
-Mejoras colaborativas y creación de juegos nuevos
+**[10:30 am - 5 pm] Equipos en Hacker Space**
 
-**[5 pm - 6 pm]] Cierre Oficial: Publicación de paquetes e instrucciones**
+        Intercambio de Recursos, mejoras colaborativas y creación de juegos nuevos
+
+**[5 pm - 5:30 pm]] Cierre Oficial: Publicación de paquetes e instrucciones**
 
 .. raw:: html
 
@@ -68,11 +78,6 @@ Mejoras colaborativas y creación de juegos nuevos
 
 ----
 
-* Proponer un taller_
-
-.. _taller: proponer.html
-
-----
 
 **Organiza**: Sugar Labs Colombia + SomosAzucar.Org + OLPC Proyecto Transformando
 

@@ -9,12 +9,28 @@
 Maratón
 =======
 
+¡Hemos empezado!
+
+Haremos seguimiento a las tareas que nos propongamos durante la maratón en el **Sistema de Seguimiento de Tareas**.
+
+http://tinyurl.com/tareas-chia
+
+También encontrarás cartulinas en el evento presencial.
+
+Ideas, problemas, preguntas, reseñas:
+
+http://network.sugarlabs.org/context/reviews/org.somosazucar.Carrito
+
+http://network.sugarlabs.org/context/reviews/org.somosazucar.Neko
+
+http://network.sugarlabs.org/context/reviews/org.somosazucar.Adivinanzas
+
 .. raw:: html
 
             <div class="col-md-12" style="float: none">
             <div id="cc-btn-sc" class="cc-btn-camp center-block">
                 <div class='cc-spacer'></div>
-                <span time="1405609200" class="kkcount-down"></span>
+                <span time="1405803600" class="kkcount-down"></span>
             </div>
             <h3 style="text-align:center">La entrada es libre</h3>
             <p style="text-align:center">

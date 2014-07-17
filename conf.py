@@ -288,7 +288,7 @@ REDIRECTIONS = []
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
 # DEPLOY_COMMANDS = []
-DEPLOY_COMMANDS = ["rsync -rav --delete output/ icarito@sunjammer.somosazucar.org:/srv/www-laboratoriosazucar/camp"]
+DEPLOY_COMMANDS = ["rsync -rav output/ icarito@sunjammer.somosazucar.org:/srv/www-laboratoriosazucar/camp"]
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
@@ -444,13 +444,16 @@ src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 # (translatable)
 CONTENT_FOOTER = '''<br/><div class="col-md-12">{license}<br/> 
 &copy; {date} <a href="mailto:{email}">{author}</a><br/>sugar camp es un evento comunitario - si puedes colaborar, <a href="mailto:{email}">¡escríbenos!</a></div>
-<div class="col-md-6"><img src="/images/somosazucar.png" /></div>
-<div class="col-md-6"><img src="/images/logos_alianzas_3.png" /></div>
+<div class="col-md-12 center-block">&nbsp;</div>
+<div class="col-md-4"><img src="/images/somosazucar.png" /></div>
+<div class="col-md-5"><img src="/images/logos_alianzas_3.png" /></div>
+<div class="col-md-3"><img src="/images/logo_labs.png" /></div>
+<div class="col-md-12 center-block">&nbsp;</div>
 <div class="col-md-3"><img src="/images/python_joven-logo.png" /></div>
+<div class="col-md-9"><img src="/images/ANSPE.png" /></div>
+<div class="col-md-9 center-block">&nbsp;</div>
 <div class="col-md-5"><img src="/images/logos_alianzas_2.png" /></div>
 <div class="col-md-4"><img src="/images/sugarlabs_trans.png" /></div>
-<div class="col-md-6"><img src="/images/logos_alianzas_1.png" /></div>
-<div class="col-md-3"><img src="/images/logo_labs.png" /></div>
 <div class="col-md-12 center-block" style="text-align: center">powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a></div>
 '''
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
