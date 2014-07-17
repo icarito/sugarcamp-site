@@ -11,6 +11,10 @@ Maratón
 
 ¡Hemos empezado!
 
+El estado inicial de los juegos del semillero se encuentra en la carpeta:
+
+http://somosazucar.org/~icarito/juegos/
+
 Haremos seguimiento a las tareas que nos propongamos durante la maratón en el **Sistema de Seguimiento de Tareas**.
 
 http://tinyurl.com/tareas-chia
